@@ -27,7 +27,7 @@ from telegram.constants import ParseMode
 from aiohttp_socks import ProxyConnector, ProxyType
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "8609731904:AAEywoWuL3fLARiPZKZmcUptL6yBIUsPY_s"
+BOT_TOKEN = "8609731904:AAG84rB5nwDnpbL14lmxu2TQnAm143RRiYM"
 SUPER_ADMIN_ID = 8702460710
 ADMIN_IDS = [SUPER_ADMIN_ID]
 
